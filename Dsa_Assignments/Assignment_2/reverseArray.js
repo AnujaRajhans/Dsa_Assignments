@@ -5,5 +5,4 @@ function reverseArray(array){
     }
     return reverseArray;
 }
-
 console.log(reverseArray([1,2,3,4,5]));
